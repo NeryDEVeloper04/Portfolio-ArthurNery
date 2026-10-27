@@ -37,7 +37,7 @@ Todo código sugerido por ferramentas de IA deve ser revisado e validado antes d
 
 Para manter a consistência e a qualidade do projeto, qualquer ferramenta de inteligência artificial utilizada no desenvolvimento deve seguir as seguintes convenções.
 
-Nomenclatura
+## Nomenclatura
 
 Componentes React: utilizar PascalCase, como ProjectCard.jsx e Header.jsx.
 
@@ -49,7 +49,7 @@ Constantes: utilizar UPPER_SNAKE_CASE quando representarem valores fixos, como A
 
 Arquivos de componentes: utilizar nomes claros e relacionados à responsabilidade de cada componente.
 
-Organização e arquitetura
+##  Organização e arquitetura
 
 Manter componentes pequenos, reutilizáveis e com responsabilidades bem definidas.
 
@@ -61,7 +61,7 @@ Evitar duplicação de código e dependências desnecessárias.
 
 Preservar a estrutura e o comportamento existente do projeto ao implementar novas funcionalidades.
 
-Regras para ferramentas de IA
+## Regras para ferramentas de IA
 
 Analisar os arquivos existentes antes de propor alterações.
 
